@@ -9,6 +9,8 @@ __pycache__/
 *.weights
 *.log
 /*.log
+*csv
+*csv.zip
 
 contraseñas.txt
 
